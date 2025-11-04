@@ -1,0 +1,257 @@
+body{
+    background-image: linear-gradient(
+        #577ca9,
+        #6ed7ce
+    );
+    display: block;
+    text-align: center;
+}
+#header{
+    border: 3px dashed #6ed7ce;
+}
+#birthday-photo{
+    width: 200px;
+}
+
+#gift-container{
+    color: #1d4c92;
+    text-shadow: 0 0 8px #6ed7ce;
+    font-size: 24px;
+    padding-top: 15px;
+    padding-bottom: 40px;
+}
+#hint{
+    font-size: 20px;
+}
+#img-funny-mommy{
+    width: 400px;
+    height: 400px;
+    background-image: url("images/gift-cover.jpg");
+    background-size: cover;
+    background-position: center;
+    margin-left: auto;
+    margin-right: auto;
+
+    border: 4px solid purple;
+    border-radius: 10px;
+}
+#img-funny-mommy:hover,
+#img-funny-mommy:active,
+#img-funny-mommy:focus{
+    width: 400px;
+    height: 400px;
+    background-image: url("images/funnyMommy.jpg");
+    background-position: center;
+    margin-left: auto;
+    margin-right: auto;
+
+    border: 8px solid purple;
+    border-radius: 10px;
+}
+#img-funny-kid{
+    width: 400px;
+    height: 400px;
+    background-image: url("images/gift-cover.jpg");
+    background-size: cover;
+    background-position: center;
+    margin-left: auto;
+    margin-right: auto;
+
+    border: 4px solid purple;
+    border-radius: 10px;
+}
+#img-funny-kid:hover,
+#img-funny-kid:active,
+#img-funny-kid:focus{
+    width: 400px;
+    height: 400px;
+    background-image: url("images/funnyKid.jpg");
+    background-size: cover;
+    background-position: center;
+    margin-left: auto;
+    margin-right: auto;
+
+    border: 8px solid purple;
+    border-radius: 10px;
+}
+#img-easter{
+    width: 400px;
+    height: 400px;
+    background-image: url("images/gift-cover.jpg");
+    background-size: cover;
+    background-position: center;
+    margin-left: auto;
+    margin-right: auto;
+
+    border: 4px solid purple;
+    border-radius: 10px;
+}
+#img-easter:hover,
+#img-easter:active,
+#img-easter:focus{
+    width: 400px;
+    height: 400px;
+    background-image: url("images/easter.jpg");
+    background-position: center;
+    margin-left: auto;
+    margin-right: auto;
+
+    border: 8px solid purple;
+    border-radius: 10px;
+}
+#img-cheese{
+    width: 400px;
+    height: 400px;
+    background-image: url("images/gift-cover.jpg");
+    background-size: cover;
+    background-position: center;
+    margin-left: auto;
+    margin-right: auto;
+
+    border: 4px solid purple;
+    border-radius: 10px;
+}
+#img-cheese:hover,
+#img-cheese:active,
+#img-cheese:focus{
+    width: 400px;
+    height: 400px;
+    background-image: url("images/cheese.jpg");
+    background-size: cover;
+    background-position: center;
+    margin-left: auto;
+    margin-right: auto;
+
+    border: 8px solid purple;
+    border-radius: 10px;
+}
+#img-adventures{
+    width: 400px;
+    height: 400px;
+    background-image: url("images/gift-cover.jpg");
+    background-size: cover;
+    background-position: center;
+    margin-left: auto;
+    margin-right: auto;
+
+    border: 4px solid purple;
+    border-radius: 10px;
+}
+#img-adventures:hover,
+#img-adventures:active,
+#img-adventures:focus{
+    width: 400px;
+    height: 400px;
+    background-image: url("images/adventurs.jpg");
+    background-size: cover;
+    background-position: center;
+    margin-left: auto;
+    margin-right: auto;
+
+    border: 8px solid purple;
+    border-radius: 10px;
+}
+#img-dest{
+    width: 400px;
+    height: 400px;
+    background-image: url("images/gift-cover.jpg");
+    background-size: cover;
+    background-position: center;
+    margin-left: auto;
+    margin-right: auto;
+
+    border: 4px solid purple;
+    border-radius: 10px;
+}
+#img-dest:hover,
+#img-dest:active,
+#img-dest:focus{
+    width: 400px;
+    height: 400px;
+    background-image: url("images/destanations.jpg");
+    background-size: cover;
+    background-position: center;
+    margin-left: auto;
+    margin-right: auto;
+
+    border: 8px solid purple;
+    border-radius: 10px;
+}
+#img-fam{
+    width: 400px;
+    height: 400px;
+    background-image: url("images/gift-cover.jpg");
+    background-size: cover;
+    background-position: center;
+    margin-left: auto;
+    margin-right: auto;
+
+    border: 4px solid purple;
+    border-radius: 10px;
+}
+#img-fam:hover,
+#img-fam:active,
+#img-fam:focus{
+    width: 400px;
+    height: 400px;
+    background-image: url("images/fam.jpg");
+    background-size: cover;
+    background-position: center;
+    margin-left: auto;
+    margin-right: auto;
+
+    border: 8px solid purple;
+    border-radius: 10px;
+}
+#img-fam2{
+    width: 400px;
+    height: 400px;
+    background-image: url("images/gift-cover.jpg");
+    background-size: cover;
+    background-position: center;
+    margin-left: auto;
+    margin-right: auto;
+
+    border: 4px solid purple;
+    border-radius: 10px;
+}
+#img-fam2:hover,
+#img-fam2:active,
+#img-fam2:focus{
+    width: 400px;
+    height: 400px;
+    background-image: url("images/famTwo.jpg");
+    background-size: cover;
+    background-position: center;
+    margin-left: auto;
+    margin-right: auto;
+
+    border: 8px solid purple;
+    border-radius: 10px;
+}
+#img-happy{
+    width: 400px;
+    height: 400px;
+    background-image: url("images/gift-cover.jpg");
+    background-size: cover;
+    background-position: center;
+    margin-left: auto;
+    margin-right: auto;
+
+    border: 4px solid purple;
+    border-radius: 10px;
+}
+#img-happy:hover,
+#img-happy:active,
+#img-happy:focus{
+    width: 400px;
+    height: 400px;
+    background-image: url("images/fireworks.jpg");
+    background-size: cover;
+    background-position: center;
+    margin-left: auto;
+    margin-right: auto;
+
+    border: 8px solid purple;
+    border-radius: 10px;
+}
