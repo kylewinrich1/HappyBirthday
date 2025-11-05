@@ -11,18 +11,24 @@ body{
 }
 #birthday-photo{
     width: 200px;
-}
+    margin: 0px 50px 0px 50px;}
 
 #gift-container{
     color: #1d4c92;
     text-shadow: 0 0 8px #6ed7ce;
     font-size: 24px;
-    padding-top: 15px;
-    padding-bottom: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 #hint{
     font-size: 20px;
 }
+
+.title{
+    margin-top: 100px;
+    margin-bottom: 10px;
+}
+
 #img-funny-mommy{
     width: 400px;
     height: 400px;
